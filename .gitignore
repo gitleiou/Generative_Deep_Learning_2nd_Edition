@@ -117,4 +117,3 @@ data/
 *.npz
 notebooks/**/cifar-*-python/
 notebooks/**/cifar-*-python.tar.gz
-
