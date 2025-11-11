@@ -110,3 +110,11 @@ venv.bak/
 # Data directory (too large for git)
 data/
 
+# Large data files and archives
+*.tar.gz
+*.zip
+*.rar
+*.npz
+notebooks/**/cifar-*-python/
+notebooks/**/cifar-*-python.tar.gz
+
